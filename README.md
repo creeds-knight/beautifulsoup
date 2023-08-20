@@ -13,6 +13,6 @@ website in Uganda. The links are provided here
 ## KEY NOTES
   - Requests is used to get the html(raw data) from the website
   - Beautiful Soup is used to parse the data i.e to make it readable(in a form of organized html)
-## COLABOTATION
+## COLABORATION
 This is an open project and any form of colaboration is accepted.
 
